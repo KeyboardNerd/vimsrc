@@ -16,5 +16,3 @@ set showmode
 set is
 set hls
 set mouse=a
-set list
-set listchars=tab:--,trail:.,eol:¬,extends:>,precedes:<
