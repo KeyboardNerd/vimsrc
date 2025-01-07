@@ -16,3 +16,9 @@ set showmode
 set is
 set hls
 set mouse=a
+set statusline+=%F
+set laststatus=2
+set scrolloff=3
+hi Search ctermbg=LightYellow
+hi Search ctermfg=Red
+hi Cursor guibg=NONE guifg=NONE gui=reverse
