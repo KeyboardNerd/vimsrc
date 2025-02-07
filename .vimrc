@@ -1,5 +1,6 @@
 filetype plugin indent on
 syntax on
+set number
 set complete+=kspell
 set colorcolumn=80
 set cursorline
