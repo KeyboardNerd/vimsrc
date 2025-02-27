@@ -10,3 +10,5 @@ alias la='ls -A'
 alias l='ls -CF'
 alias g='grep -rnis'
 alias f='find -L . -name'
+export HISTSIZE=100000000
+shopt -s histappend
