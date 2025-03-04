@@ -23,3 +23,4 @@ set scrolloff=3
 hi Search ctermbg=LightYellow
 hi Search ctermfg=Red
 hi Cursor guibg=NONE guifg=NONE gui=reverse
+set clipboard=unnamedplus
